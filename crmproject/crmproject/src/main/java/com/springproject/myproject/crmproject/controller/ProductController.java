@@ -1,9 +1,7 @@
 
 package com.springproject.myproject.crmproject.controller;
-
 import com.springproject.myproject.crmproject.model.Product;
 import com.springproject.myproject.crmproject.model.User;
-import com.springproject.myproject.crmproject.repository.UserRepository;
 import com.springproject.myproject.crmproject.service.ProductService;
 import com.springproject.myproject.crmproject.service.UserService;
 import org.springframework.http.ResponseEntity;
